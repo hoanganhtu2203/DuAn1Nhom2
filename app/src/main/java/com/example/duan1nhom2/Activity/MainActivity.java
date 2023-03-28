@@ -1,4 +1,4 @@
-package com.example.duan1nhom2;
+package com.example.duan1nhom2.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
@@ -10,6 +10,7 @@ import android.os.Bundle;
 import com.example.duan1nhom2.Fragment.DongiaFragment;
 import com.example.duan1nhom2.Fragment.HoadonFragment;
 import com.example.duan1nhom2.Fragment.HomeFragment;
+import com.example.duan1nhom2.R;
 import com.example.duan1nhom2.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
